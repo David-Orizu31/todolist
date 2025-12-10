@@ -14,7 +14,7 @@ A simple task management system on Sui blockchain.
 - **Package ID**: 0x1aa678685461c751e548ae7f5b9e85365559e30ea6324989e1bdcc16243c9a08
 - **Module**: simple_tasks
 - **Deployed By**: David Orizu
-- **Date**: December 10, 2024
+- **Date**: December 10, 2025
 
 ## Contract Functions
 
